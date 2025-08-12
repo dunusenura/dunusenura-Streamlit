@@ -1,4 +1,4 @@
-# Wine Quality Dataset - Streamlit App
+# Wine Quality Dataset - Demo Live
 
 This project is a Streamlit web application that allows users to explore and analyze the Wine Quality Dataset. It provides interactive visualizations and prediction functionalities related to wine quality.
 
