@@ -2,6 +2,12 @@
 
 This project is a Streamlit web application that allows users to explore and analyze the Wine Quality Dataset. It provides interactive visualizations and prediction functionalities related to wine quality.
 
+
+## 🖥️ Deployment
+The project is deployed on Streamlit Cloud.
+Live demo 👉 ([Wine Quality Prediction App](https://dunusenura-app-gbatvoav8rlctwwi8mibpk.streamlit.app/))
+
+
 ## Features
 
 - Interactive data visualization
@@ -11,7 +17,7 @@ This project is a Streamlit web application that allows users to explore and ana
 
 ## Dataset
 
-The dataset used is the popular https://dunusenura-app-gbatvoav8rlctwwi8mibpk.streamlit.app from the UCI Machine Learning Repository.
+The dataset used is the popular .app from the UCI Machine Learning Repository.
 
 
 ### Features:
